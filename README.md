@@ -14,3 +14,6 @@ suitable for real-world business websites.
 - CSS
 - Flexbox
 - Media Queries (for responsiveness)
+
+# Live Demo
+ https://yellowpixeldesigns.github.io/glow-beauty-salon/
