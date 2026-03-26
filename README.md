@@ -20,7 +20,7 @@ suitable for real-world business websites.
  https://yellowpixeldesigns.github.io/glow-beauty-salon/
 
  ## Preview
- ![Glow Beauty Salon Website](home.jpg)
+ ![Glow Beauty Salon Website](images/home.jpg)
 
  ## Purpose Of This Project
  - Frontend web development
